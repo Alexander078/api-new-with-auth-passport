@@ -59,3 +59,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# api-new-with-auth-passport
+Basic RESTful API with Authentication Laravel Passport
+
+Laravel Passport is an OAuth 2.0 server implementation for API authentication using Laravel. Since tokens are generally used in API authentication, Laravel Passport provides an easy and secure way to implement token authorization on an OAuth 2.0 server.
